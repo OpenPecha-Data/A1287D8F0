@@ -1,0 +1,19 @@
+segment_sources:
+  P7ABE48F2:
+    type: origin_type
+    relation: translation
+    language: en
+  PDA8AEDDA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8e8d15967d7f4fc0ab74eefbc8f18375:
+    P7ABE48F2: 69b7a0df597b48f3b1e8ed42c5037701
+    PDA8AEDDA: 1f9812e6b0be4dcd8aefb8c5f34f8a2c
+  ce1927318e794afe990a5bd9bb30b306:
+    P7ABE48F2: 00e965bdcf0d488190b5f735373be50e
+    PDA8AEDDA: 346a89a60de84bb580b6168514a0fc50
+  cfe96eccaeea43c9b3b9181348ef400e:
+    P7ABE48F2: ceadbef7e1cd45f1b7df728229816513
+    PDA8AEDDA: 4195d128bcd64338a545e52deec79e61
